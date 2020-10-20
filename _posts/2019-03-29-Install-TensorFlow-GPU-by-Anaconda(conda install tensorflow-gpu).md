@@ -54,7 +54,7 @@ Run the command below:
 ```bash
 conda create -n tf
 ```
-![post-bg-use](/post-bg-use.jpg)
+![post-bg-use](../img/post-bg-use.jpg)
 
 'tf' is the name of your new conda environment, you can try other names as your own interest.
 
