@@ -52,7 +52,7 @@ Run the command below:
 ```bash
 conda create -n tf
 ```
-![picture1](/img/20190328post.jpg)
+![post-bg-use](C:\Users\18370\Desktop\postgraduatt\dreamStarRiver.github.io\img\post-bg-use.jpg)
 
 'tf' is the name of your new conda environment, you can try other names as your own interest.
 
