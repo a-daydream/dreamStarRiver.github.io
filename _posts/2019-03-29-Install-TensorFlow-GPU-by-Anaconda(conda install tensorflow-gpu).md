@@ -5,6 +5,7 @@ subtitle:   It might be the simplest way to install Tensorflow or Tensorflow-GPU
 date:       2019-03-29
 author:     Wang Pei
 header-img: img/art-Anaconda-TensorFlow.jpg
+typora-root-url: https://github.com/dreamStarRiver/dreamStarRiver.github.io/raw/master/
 catalog: true
 tags:
     - ubuntu
@@ -52,7 +53,11 @@ Run the command below:
 ```bash
 conda create -n tf
 ```
-![post-bg-use](C:\Users\18370\Desktop\postgraduatt\dreamStarRiver.github.io\img\post-bg-use.jpg)
+![post-bg-use](https://github.com/dreamStarRiver/dreamStarRiver.github.io/raw/master/img/post-bg-use.jpg)
+
+
+
+
 
 'tf' is the name of your new conda environment, you can try other names as your own interest.
 
